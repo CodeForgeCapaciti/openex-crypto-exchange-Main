@@ -1,10 +1,10 @@
-package com.backend.cryptoBackend;
+package com.cryptoBackend.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CryptoBackendApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
